@@ -1,0 +1,25 @@
+{
+  "run_id": "smoke_20261031T075243_1717bc",
+  "reviewed_utc": "2026-10-31T07:53:48.854915+00:00",
+  "records": 28,
+  "isolated_audience_records": 0,
+  "cryptographic_operations": 66,
+  "crypto_backend": "Node.js crypto/OpenSSL, independent of Python verifier",
+  "audit_code_sha256": "b044cc06cf9cdf20e8bc418961668c6b6abb619dc3b39b5f2ad9db14ccdf33eb",
+  "transactions_checked": 25,
+  "tx_status_counts": {
+    "0x1": 23,
+    "0x0": 2
+  },
+  "block_headers_checked": 30,
+  "transaction_and_receipt_trie_roots_checked": 60,
+  "clique_signer_block_counts": {
+    "0xae1c76fa1c19971e20cb1cfbcca2126a4f7a009a": 15,
+    "0x5e528cd528628f65a520c48d09640400888a6bbb": 14
+  },
+  "contract_transitions_recomputed": 24,
+  "state_links": 17,
+  "errors": [],
+  "warnings": [],
+  "passed": true
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "file": "tools/common.py",
+    "original_sha256": "9b90fec17468690f485b5879d374a5ff9bd520ae1be0df98396e6c0f90648e6a",
+    "release_sha256": "ff0577b9cf47c5c8b19fdb6434a718f197d0492e1e755fbf94300aa89b8a9410"
+  },
+  {
+    "file": "tools/chain.py",
+    "original_sha256": "ef9e89c3e9ae243ad9f12e61a7991dbd972c17d1229d25634aa344c35e621ca7",
+    "release_sha256": "91f5f94fc75a236e90e5803f2282d1e342e609c2127faf221f96424478973bf9"
+  },
+  {
+    "file": "tools/Registry.sol",
+    "original_sha256": "9294f04c00d61ccbe5e677c35c8bd56e1fb89900f33ae6f0e3f52796bf67ba21",
+    "release_sha256": "9294f04c00d61ccbe5e677c35c8bd56e1fb89900f33ae6f0e3f52796bf67ba21"
+  },
+  {
+    "file": "tools/verifier.py",
+    "original_sha256": "381a47be9cdb628eb9fb1d08cc67c9f922b1c0357aaf852b77768cb309388639",
+    "release_sha256": "381a47be9cdb628eb9fb1d08cc67c9f922b1c0357aaf852b77768cb309388639"
+  },
+  {
+    "file": "tools/run_experiment.py",
+    "original_sha256": "d64d18819e37894629445accd68a027d022360cf3bf0e66e2c6248f09d7c9506",
+    "release_sha256": "dc57ba417656b9940c93797929d4114caa4cfeaa61fe62673085b30d0654ce0b"
+  },
+  {
+    "file": "tools/independent_audit.py",
+    "original_sha256": "d7b17fb3a8e93b23df028ff33d0e799b8dc3bff1d1e1f5e2ca06ef260086e40a",
+    "release_sha256": "b044cc06cf9cdf20e8bc418961668c6b6abb619dc3b39b5f2ad9db14ccdf33eb"
+  },
+  {
+    "file": "tools/crypto_check.mjs",
+    "original_sha256": "37b1575bba5af2006953d6a2f5de9ec3813d1f392e6307df47db9b086170e8b7",
+    "release_sha256": "37b1575bba5af2006953d6a2f5de9ec3813d1f392e6307df47db9b086170e8b7"
+  },
+  {
+    "file": "tools/run_suite.py",
+    "original_sha256": "25c26537678c7b54f2acad57b0837fd5f63c33df87fa524f7db3bfed797a105f",
+    "release_sha256": "25c26537678c7b54f2acad57b0837fd5f63c33df87fa524f7db3bfed797a105f"
+  },
+  {
+    "file": "tools/run_audience_regression.py",
+    "original_sha256": "66cc52bbce248339582ef13f3e4fc82b3d4ed8cdebed0dd18ed93c6a8d0ff2a1",
+    "release_sha256": "66cc52bbce248339582ef13f3e4fc82b3d4ed8cdebed0dd18ed93c6a8d0ff2a1"
+  },
+  {
+    "file": "tools/statistics_report.py",
+    "original_sha256": "d7f63a3be4cd2a7453d103974051f2e19c253c2c40c2d18485181cbf1215625c",
+    "release_sha256": "d7f63a3be4cd2a7453d103974051f2e19c253c2c40c2d18485181cbf1215625c"
+  }
+]
